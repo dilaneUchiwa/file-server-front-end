@@ -1,0 +1,11 @@
+.element{
+    cursor: pointer;
+}
+.element:hover{
+    background-color: #b8d8cc;
+    border: 1 px solid #b8d8cc;
+    border-radius: 5px;
+}
+.element:active{
+    background-color: #95ada4;
+}
